@@ -27,7 +27,7 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 ---
 
 ## 📂 Projetos em Destaque
-- 🎥 **SilvaFlix** — Plataforma para retrospectivas familiares com design aconchegante  
+<!-- - 🎥 **SilvaFlix** — Plataforma para retrospectivas familiares com design aconchegante  -->
 - 🏖️ **Turismo em Itanhaém** — Site acessível com informações sobre a cidade  
 - 🌱 **Controle de Temperatura para Estufa** — Projeto Arduino no Tinkercad  
 - 🛒 **E-commerce com Data Warehouse** — Modelagem dimensional para análise de vendas  
@@ -35,9 +35,8 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 ---
 
 ## 📬 Vamos nos conectar!
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](SEU-LINK-PORTFOLIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU-LINK-INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-LINKEDIN)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](SEU-LINK-PORTFOLIO) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU-LINK-LINKEDIN](https://www.linkedin.com/in/eduardo-henrique-silva-de-amorim/))
 
 ---
 💡 *Sempre em busca de novos desafios e aprendizados.*
