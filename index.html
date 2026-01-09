@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eduardo Henrique | Portfólio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&family=Inter&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="logo">Eduardo Henrique</div>
+    <nav class="nav-menu">
+      <a href="#projetos">Projetos</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#contato">Contato</a>
+    </nav>
+    <div class="mobile-menu" onclick="toggleMenu()">
+      <div class="bar"></div>
+      <div class="bar"></div>
+      <div class="bar"></div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h1>Criação em código, cor e movimento.</h1>
+    <p>Desenvolvedor Front-End | Designer UI/UX | Criador Visual</p>
+  </section>
+
+  <section id="projetos" class="projetos">
+    <h2>Projetos</h2>
+    <div class="categorias">
+      <button onclick="filtrarProjetos('todos')">Todos</button>
+      <button onclick="filtrarProjetos('design')">Design</button>
+      <button onclick="filtrarProjetos('web')">Web</button>
+      <button onclick="filtrarProjetos('apps')">Aplicativos</button>
+      <button onclick="filtrarProjetos('java')">Programação</button>
+    </div>
+    <div class="cards">
+      <div class="card web">
+        <h3>SilvaFlix</h3>
+        <p>Site de retrospectivas familiares com player de vídeo responsivo e identidade visual personalizada.</p>
+      </div>
+      <div class="card web">
+        <h3>Turismo Itanhaém</h3>
+        <p>Site acessível e moderno para promover o turismo local em Itanhaém.</p>
+      </div>
+      <div class="card apps">
+        <h3>App de Academia</h3>
+        <p>Aplicativo para controle de treinos, séries e progresso físico.</p>
+      </div>
+      <div class="card design">
+        <a href="/projetos/convites.html"> <h3>Convites Digitais</h3> </a>
+        <p>Convites digitais, animados e interativos.</p>
+      </div>
+      <div class="card apps">
+        <h3>Aluguel de Filmes</h3>
+        <p>App com catálogo de filmes e sistema de aluguel interativo.</p>
+      </div>
+      <div class="card java">
+        <h3>Calculadora de IMC</h3>
+        <p>Atividade em Java com interface simples para cálculo de IMC.</p>
+      </div>
+      <div class="card design">
+        <h3>Identidade Visual</h3>
+        <p>Criação de identidade visual, posts e stories.</p>
+      </div>
+      <div class="card apps">
+        <h3>Biblioteca Online</h3>
+        <p>Sistema para cadastro, busca e empréstimo de livros digitalmente.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato" class="contato">
+    <h2>Contato</h2>
+    <p>Email: eduardo.amorim7@outlook.com</p>
+    <p><a href="https://www.linkedin.com/in/eduardo-henrique-silva-de-amorim/">LinkedIn</a> | <a href="https://www.instagram.com/eduartspersonalizados/">Instagram</a> | <a href="https://github.com/duh2467">GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Eduardo Henrique</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
