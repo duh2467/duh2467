@@ -26,11 +26,13 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 
 ---
 
+<!--
 ## 📂 Projetos em Destaque
-<!-- - 🎥 **SilvaFlix** — Plataforma para retrospectivas familiares com design aconchegante  -->
+<!-- - 🎥 **SilvaFlix** — Plataforma para retrospectivas familiares com design aconchegante  --
 - 🏖️ **Turismo em Itanhaém** — Site acessível com informações sobre a cidade  
 - 🌱 **Controle de Temperatura para Estufa** — Projeto Arduino no Tinkercad  
 - 🛒 **E-commerce com Data Warehouse** — Modelagem dimensional para análise de vendas  
+  -->
 
 ---
 
