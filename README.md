@@ -32,9 +32,8 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 - 🏖️ **Turismo em Itanhaém** — Site acessível com informações sobre a cidade  
 - 🌱 **Controle de Temperatura para Estufa** — Projeto Arduino no Tinkercad  
 - 🛒 **E-commerce com Data Warehouse** — Modelagem dimensional para análise de vendas  
-  -->
 
----
+---  -->
 
 ## 📬 Vamos nos conectar!
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1p6Rql1MAGWWfWJmVGTxKXA4iwMFoDCYU/view?usp=sharing)
