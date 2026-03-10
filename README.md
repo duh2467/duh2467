@@ -35,8 +35,8 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 ---
 
 ## 📬 Vamos nos conectar!
-<!-- [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](SEU-LINK-PORTFOLIO) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU-LINK-LINKEDIN](https://www.linkedin.com/in/eduardo-henrique-silva-de-amorim/))
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1p6Rql1MAGWWfWJmVGTxKXA4iwMFoDCYU/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-silva-de-amorim/)
 
 ---
 💡 *Sempre em busca de novos desafios e aprendizados.*
