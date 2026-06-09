@@ -7,7 +7,7 @@ Estou construindo meu portfólio com projetos reais e fictícios para explorar i
 ---
 
 ## 🚀 Sobre mim
-- 🎯 Estudante de **Desenvolvimento de Software Multiplataforma**  
+- 🎯 Formado em **Desenvolvimento de Software Multiplataforma**  
 - 🌟 Interesse especial em **UI/UX Design** e **Front-End**  
 - 🛠️ Explorando tecnologias e ferramentas para criar soluções completas  
 - 📍 Praia Grande - SP
